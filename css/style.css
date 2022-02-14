@@ -45,6 +45,10 @@ header nav  .branding {
     margin-right: 3rem;
 }
 
+header nav .brading  {
+    margin-right: 3rem;
+}
+
 header nav .left a:hover{
     color: var(--primary);
     transition: all .3s ease;
